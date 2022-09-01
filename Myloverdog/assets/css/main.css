@@ -59,10 +59,10 @@
     padding: 1rem 0.5rem;
   }
   .god h1 {
-    font-size: 1rem;
+    font-size: 1.3rem;
   }
   .god span {
-    max-height: 32px;
+    max-height: 30px;
   }
 }
 .god .wrap > span {
