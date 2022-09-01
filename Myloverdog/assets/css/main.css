@@ -45,7 +45,7 @@
 }
 .god h1 {
   margin: 0;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 .god span {
   display: block;
@@ -59,7 +59,7 @@
     padding: 2rem 0.5rem;
   }
   .god h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   .god span {
     max-height: 36px;
