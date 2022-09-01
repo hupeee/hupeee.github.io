@@ -56,13 +56,13 @@
 
 @media screen and (max-width: 768px) {
   .god {
-    padding: 2rem 0.5rem;
+    padding: 1rem 0.5rem;
   }
   .god h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   .god span {
-    max-height: 34px;
+    max-height: 32px;
   }
 }
 .god .wrap > span {
